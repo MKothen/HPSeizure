@@ -35,6 +35,8 @@ Homeostatic plasticity is enabled by default but can be turned off in the config
 The script is organized for clarity, making it easier to understand and modify different components.
 Feel free to explore and modify the code to suit your interests or to extend the simulation with additional features.
 
+### Requirements: 
+Brian2, NumPy, Matplotlib
 
 
 
